@@ -121,10 +121,10 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile URL
+* 💼 LinkedIn: https://www.linkedin.com/in/swetha-s-71aa71278 
 * 📧 Email: [swethasathaiah6@gmail.com](mailto:swethasathaiah6@gmail.com)
 * 🐙 GitHub: SwethaS-07
-* 💻 LeetCode: Add your LeetCode profile URL
+* 💻 LeetCode: https://leetcode.com/u/swethas_07/
 
 ---
 
