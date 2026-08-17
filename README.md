@@ -1,32 +1,78 @@
-# Hi, I'm Swetha S 👋
+# Swetha S
 
-### Computer Science Engineering Graduate | Java Backend & Full-Stack Developer | AI/ML Enthusiast
+# 👋 Hi, I'm Swetha S
 
-I'm a **Computer Science Engineering graduate (2026)** with hands-on experience in **Java, Spring Boot, REST API development, database management, authentication, and workflow automation**.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=24\&pause=1000\&color=9F7AEA\&center=true\&vCenter=true\&width=700\&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Open+to+Work)
 
-I have practical experience building backend applications and working with **43 REST APIs, JWT authentication, role-based authorization, MySQL, Hibernate/JPA, and Cloudinary**. I also have experience applying **Machine Learning and Neural Networks** to gesture recognition and AI-based accessibility solutions.
+## About Me
 
----
+* 🎓 B.E. Computer Science Engineering — 2026
+* ☕ Java Backend & Full-Stack Developer
+* 🚀 Spring Boot | REST APIs | Hibernate | JPA
+* 🔐 JWT Authentication | Role-Based Access Control
+* 🗄️ MySQL | Cloudinary
+* 🤖 SVM | Neural Networks | Gesture Recognition
+* 💻 100+ LeetCode Problems Solved
+* 🔨 Built 43 REST APIs
+* 🌱 Interested in Backend Development, AI/ML & Software Engineering
 
-## 💻 What I Work With
+## 💼 Experience
 
-### Programming
+### Java Full-Stack Developer Intern — TVK Technologies
 
-* Java
-* Python
-* SQL
-* JavaScript
+* Developing backend applications using Java and Spring Boot
+* Working on database query optimization and API performance
+* Working with Git/GitHub and Agile development practices
 
-### Backend Development
+### Java Full-Stack Developer Intern — Amdox Technologies
 
-* Spring Boot
-* REST APIs
-* Hibernate
-* JPA
-* JWT Authentication
-* Role-Based Access Control
+* Developed a Task Management System using Spring Boot and MySQL
+* Implemented JWT authentication and role-based authorization
+* Worked with Cloudinary for cloud asset management
+* Participated in Agile development and code reviews
 
-### AI & Machine Learning
+## 🚀 Projects
+
+### 📋 Task Management System
+
+**Java | Spring Boot | MySQL | Hibernate | JPA | JWT | REST APIs | Cloudinary**
+
+* Built a workflow automation system with 43 RESTful APIs
+* Implemented task assignment, workflow routing and status tracking
+* Implemented JWT authentication and Admin/User role-based access control
+* Integrated Cloudinary for cloud asset storage and media handling
+
+### 🤟 IoT-Enhanced Sign Language Glove
+
+**Python | Arduino | Flex Sensors | SVM | Neural Networks | Bluetooth**
+
+* Developed a gesture-to-text translation system
+* Implemented real-time sensor data streaming and signal processing
+* Achieved 75% gesture recognition accuracy
+* Presented research on AI accessibility solutions at ICASEM 2025
+
+### 🎯 Career Guidance Web Platform
+
+**HTML | CSS | JavaScript**
+
+* Developed a career guidance platform for students
+* Implemented rule-based personalized career recommendations
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
+
+### Backend & Development
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman,git,github"/>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+### AI / ML
 
 * SVM
 * Neural Networks
@@ -35,172 +81,69 @@ I have practical experience building backend applications and working with **43 
 * OpenCV
 * Data Preprocessing
 
-### Databases & Cloud
+## 🧠 Problem Solving
 
-* MySQL
-* Cloudinary
+* 💻 100+ LeetCode problems solved
+* 🔑 Hashing
+* 📊 Arrays
+* 🔍 Binary Search
+* 📚 Stack-based patterns
+* 🧩 Data Structures & Algorithms
 
-### Tools
+## 🏆 Achievements
 
-* Git
-* GitHub
-* Postman
-* Maven
-* IntelliJ IDEA
-* VS Code
-
-### Problem Solving
-
-* Data Structures & Algorithms
-* 100+ LeetCode problems
-* Hashing
-* Arrays
-* Binary Search
-* Stack-based patterns
-
----
-
-## 💼 Experience
-
-### Java Full-Stack Developer Intern — TVK Technologies
-
-**July 2026 – Present**
-
-Currently working on backend web architecture using **Java and Spring Boot**, with a focus on database query optimization and API response performance.
-
-Also working in an Agile development environment with Git/GitHub, sprint ceremonies, and automated code review processes.
-
-### Java Full-Stack Developer Intern — Amdox Technologies
-
-**January 2026 – April 2026**
-
-Worked on a full-featured **Task Management System** using:
-
-* Java
-* Spring Boot
-* MySQL
-* JWT
-* Cloudinary
-
-Implemented authentication and role-based authorization for Admin and User accounts and worked in an Agile development environment involving sprint ceremonies, code reviews, and GitHub-based development.
-
----
-
-## 🚀 Projects
-
-### Task Management System
-
-**Java | Spring Boot | MySQL | Hibernate | JPA | JWT | REST APIs**
-
-Built a workflow automation system with **43 RESTful APIs** for task assignment, workflow routing, and status tracking.
-
-Implemented JWT authentication and role-based access control across **10 MySQL database tables**, along with Cloudinary integration for cloud asset storage and media handling.
-
-### IoT-Enhanced Sign Language Glove
-
-**Python | Arduino | Flex Sensors | SVM | Neural Networks | Bluetooth**
-
-Developed an AI-based gesture-to-text translation system using sensor data and machine-learning models.
-
-The system achieved **75% gesture recognition accuracy** and included real-time sensor data streaming through Arduino and Bluetooth.
-
-The project was also presented as research on AI accessibility solutions at the **ICASEM 2025 International Conference**.
-
-### Career Guidance Web Platform
-
-**HTML | CSS | JavaScript**
-
-Developed a web platform that provides personalized, rule-based career recommendations to students through backend logic integration.
-
----
-
-## 🎓 Education
-
-**B.E. Computer Science Engineering**
-Jerusalem College of Engineering, Chennai
-
-**CGPA: 8.50**
-Graduated: March 2026
-
----
+* 🥇 Innovative Project Award — Computer Society of India, Kancheepuram Chapter
+* 📊 TCS iON NQT — 69.02% Overall
+* ☕ Java Programming — 72.52%
+* 🧮 Advanced Quantitative & Reasoning — 77.69%
+* 💻 100+ LeetCode problems solved
 
 ## 📜 Certifications
 
 * TCS iON NQT Certification
 * HackerRank Java — Basic
 
----
+## 📊 GitHub Stats
 
-## 🏆 Achievements
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwethaS-07\&show_icons=true\&theme=tokyonight)
 
-* **TCS iON NQT:** 69.02% overall
-* **Java Programming:** 72.52%
-* **Advanced Quantitative & Reasoning:** 77.69%
-* Solved **100+ LeetCode problems**
-* Received the **Innovative Project Award** from the Computer Society of India (Kancheepuram Chapter) for technical excellence and real-world problem solving.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwethaS-07\&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwethaS-07\&layout=compact\&theme=tokyonight)
 
-## 🔎 Current Focus
+## 📈 Activity Graph
 
-I'm currently focused on strengthening my skills in:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwethaS-07\&theme=tokyo-night)
 
-* Java
-* Spring Boot
-* Backend Development
-* REST API Design
-* SQL & Database Management
-* Data Structures & Algorithms
-* System Design fundamentals
-* AI/ML integration
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SwethaS-07\&theme=tokyonight\&no-frame=true)
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: Add your LinkedIn profile URL
+* 📧 Email: [swethasathaiah6@gmail.com](mailto:swethasathaiah6@gmail.com)
+* 🐙 GitHub: SwethaS-07
+* 💻 LeetCode: Add your LeetCode profile URL
 
 ---
 
-## 📊 GitHub Focus
-
-This GitHub profile contains my work in:
+### ⚡ Currently Focused On
 
 ```text
-Java Backend Development
-        ↓
+Java
+   ↓
 Spring Boot
-        ↓
+   ↓
 REST APIs
-        ↓
-MySQL / JPA / Hibernate
-        ↓
-Authentication & Authorization
-        ↓
-Workflow Automation
-        ↓
-AI / ML
-        ↓
-Problem Solving
+   ↓
+MySQL + JPA + Hibernate
+   ↓
+JWT + Role-Based Authorization
+   ↓
+DSA & Problem Solving
+   ↓
+AI/ML Integration
 ```
 
-I use GitHub to document projects, experiment with technologies, practice problem solving, and build practical software engineering experience.
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** [swethasathaiah6@gmail.com](mailto:swethasathaiah6@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/swetha-s-71aa71278 
-
-🐙 **GitHub:** https://github.com/SwethaS-07
-
-💻 **LeetCode:** https://leetcode.com/u/swethas_07/
-
----
-
-### ⚡ Tech Stack
-
-```text
-Java • Python • SQL • JavaScript
-Spring Boot • REST APIs • Hibernate • JPA
-JWT • MySQL • Cloudinary
-SVM • Neural Networks • OpenCV
-Git • GitHub • Maven • Postman
-DSA • Agile/Scrum
-```
+### 💡 "Building practical solutions, one problem at a time."
